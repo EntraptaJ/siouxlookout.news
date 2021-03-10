@@ -1,9 +1,7 @@
-name: github pages
+name: Push
 
 on:
   push:
-    branches:
-      - main  # Set a branch to deploy
 
 jobs:
   deploy:
