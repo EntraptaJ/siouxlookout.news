@@ -13,7 +13,6 @@ categories = [
 "Development",
 "golang",
 ]
-image = "https://i.ytimg.com/vi/VLnoJ2mJbaI/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArRwdxasCMal8roxQaGF3mvutKNQ"
 +++
 
 ## Introduction to Go Templates

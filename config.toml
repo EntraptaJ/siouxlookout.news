@@ -1,4 +1,4 @@
-baseURL = "https:/dailywire.news/"
+baseURL = "https:/siouxlookout.news/"
 languageCode = "en-us"
 theme = "newsroom"
 
@@ -7,14 +7,13 @@ theme = "newsroom"
 
 [languages]
   [languages.en]
-    keywords = ""
-    homeSubtitle = "Programmer, Server/System Administrator, Solution Integrator"
+    keywords = "News, Sioux Lookout, Independent Journalism, Independent News"
     readOtherPosts = "Read other posts"
-    title = "Kristian Jones"
+    title = "Sioux Lookout Independent News"
 
   [languages.en.params.logo]
     logoHomeLink = "/"
-    logoText = "kristianjones.dev"
+    logoText = "siouxlookout.news"
 
 # [menu]
 #   [[menu.main]]
