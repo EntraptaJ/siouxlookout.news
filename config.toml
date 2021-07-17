@@ -1,13 +1,12 @@
 baseURL = "https:/dailywire.news/"
 languageCode = "en-us"
-theme = "hello-friend-ng"
+theme = "newsroom"
 
 [author]
   name = "Kristian Jones"
 
 [languages]
   [languages.en]
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     keywords = ""
     homeSubtitle = "Programmer, Server/System Administrator, Solution Integrator"
     readOtherPosts = "Read other posts"
@@ -33,26 +32,3 @@ theme = "hello-friend-ng"
 #     name       = "Resume"
 #     url        = "/nc_resume.pdf"
 #     weight     = 3
-
-[params]
-  dateform        = "Jan 2, 2006"
-  dateformShort   = "Jan 2"
-  dateformNum     = "2006-01-02"
-  dateformNumTime = "2006-01-02 15:04 -0700"
-
-  defaultTheme = "dark"
-
-  contentTypeName = "posts"
-  disableReadOtherPosts = false
-
-  description = "Kristian Jones' personal website"
-  keywords = "homepage, blog"
-  images = [""]
-
-  [[params.social]]
-    name = "email"
-    url  = "mailto:me@kristianjones.dev"
-
-  [[params.social]]
-    name = "github"
-    url  = "https://github.com/KristianFJones"
